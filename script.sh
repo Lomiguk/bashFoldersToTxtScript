@@ -1,6 +1,3 @@
 #!/bin/bash
-
-#My Hello, World! script
-
-echo "Hello, World!"
+echo $(ls -d */) >dir_log.txt
 
