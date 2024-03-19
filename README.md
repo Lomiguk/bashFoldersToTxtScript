@@ -1,1 +1,2 @@
 # bashFoldersToTxtScript
+# bash_script
