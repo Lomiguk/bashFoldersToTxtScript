@@ -1,3 +1,3 @@
 #!/bin/bash
-echo $(ls -d */) >dir_log.txt
+echo $(ls -d */) > dir_log.txt
 
