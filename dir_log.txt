@@ -1,1 +1,1 @@
-a/ c/ test_dir/
+/home/lomiguk/test/ /home/lomiguk/work_space/
